@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+.solid{
+    width: 150px;
+    height: 150px;
+   border: solid 5px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.dashed{
+    width: 150px;
+    height: 150px;
+    border: dashed 5px;
+    margin-left: 350px;
+    margin-top: -178px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.dotted{
+    width: 150px;
+    height: 150px;
+    border: dotted 5px;
+    margin-left: 600px;
+    margin-top: -178px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.double{
+    width: 150px;
+    height: 150px;
+    border: double 5px;
+    margin-left: 850px;
+    margin-top: -178px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.inset{
+    width: 150px;
+    height: 150px;
+    border: inset 10px;
+    margin-left: 100px;
+    margin-top: 90px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.outset{
+    width: 150px;
+    height: 150px;
+    border: outset 10px;
+    margin-left: 350px;
+    margin-top: -188px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.groove{
+    width: 150px;
+    height: 150px;
+    border: groove 10px;
+    margin-left: 600px;
+    margin-top: -188px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
+.ridge{
+    width: 150px;
+    height: 150px;
+    border: ridge 10px;
+    margin-left: 850px;
+    margin-top: -188px;
+    padding: 10px;
+    font-size: 25px;
+    color: gray;
+    text-align: center;
+    line-height: 140px;
+}
